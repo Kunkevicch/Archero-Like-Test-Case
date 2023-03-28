@@ -7,7 +7,7 @@ namespace ArcheroLike.SO
     /// Scriptable Object для настройки передвижения
     /// </summary>
     [CreateAssetMenu(fileName ="MoveDetails_",menuName ="Scriptable Objects/Move/Move Details")]
-    public class MoveDetailsSO : MonoBehaviour
+    public class MoveDetailsSO : ScriptableObject
     {
         #region Header Move Details
         [Header("Move details")]

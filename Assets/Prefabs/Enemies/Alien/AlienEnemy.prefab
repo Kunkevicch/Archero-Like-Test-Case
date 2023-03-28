@@ -294,7 +294,7 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 64
+  m_Constraints: 112
   m_CollisionDetection: 0
 --- !u!136 &8208269171599620296
 CapsuleCollider:
@@ -307,9 +307,9 @@ CapsuleCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   m_Radius: 0.5
-  m_Height: 2.413878
+  m_Height: 1.9189943
   m_Direction: 1
-  m_Center: {x: 0, y: 0.706939, z: 0}
+  m_Center: {x: 0, y: 0.9543808, z: 0}
 --- !u!1 &1595834627065644807
 GameObject:
   m_ObjectHideFlags: 0
